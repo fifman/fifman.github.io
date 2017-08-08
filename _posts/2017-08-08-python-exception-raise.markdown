@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "python中raise和raise from None的区别"
 date:   2017-08-08 15:39:00
 categories: python exception
 tags: python exception
